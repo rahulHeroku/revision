@@ -1,4 +1,4 @@
-**Watch REACT videos from the developer way**
+**Watch REACT videos from the developer way youtube channel**
 
 Writing Scripts in package.json.
 
